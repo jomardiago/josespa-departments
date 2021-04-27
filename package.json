@@ -1,7 +1,7 @@
 {
   "name": "@josespa/departments",
   "scripts": {
-    "start": "webpack serve --port 9003",
+    "start": "webpack serve --port 9004",
     "start:standalone": "webpack serve --env standalone",
     "build": "webpack --mode=production",
     "analyze": "webpack --mode=production --env analyze",
